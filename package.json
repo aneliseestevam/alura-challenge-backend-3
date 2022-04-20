@@ -1,0 +1,24 @@
+{
+  "name": "challenge-alura-backend-3",
+  "version": "1.0.0",
+  "description": "Alura Challenge Backend para treinar habilidades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneliseestevam/alura-challenge-backend-3.git"
+  },
+  "keywords": [
+    "js",
+    "backend",
+    "challenge"
+  ],
+  "author": "Anelise Estevam <aestevam.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneliseestevam/alura-challenge-backend-3/issues"
+  },
+  "homepage": "https://github.com/aneliseestevam/alura-challenge-backend-3#readme"
+}
